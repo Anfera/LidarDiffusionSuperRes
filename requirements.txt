@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+tqdm
+natsort
+pytorch_fid
+einops
+ema_pytorch
+accelerate
+pillow
+packaging
