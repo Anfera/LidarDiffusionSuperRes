@@ -51,4 +51,4 @@ The generated CHMs and visualizations will be saved in the `results` folder.
 
 **Acknowledgments:**
 
-- This project is based on the `denoising_diffusion_pytorch` library.
+- This project is based on the `denoising_diffusion_pytorch` library. https://github.com/lucidrains/denoising-diffusion-pytorch
